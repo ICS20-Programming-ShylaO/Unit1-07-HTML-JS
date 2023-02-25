@@ -1,0 +1,26 @@
+/* Created by: Shyla Oommen
+ * Created on: Feb. 2023
+ * This CSS file defines the style for index.html 
+*/
+
+body {
+  background-color: floralwhite;
+}
+
+h1 {
+  background-color: burlywood;
+  color: teal;
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: burlywood;
+  color: darkred;
+  text-align: center;
+}
+
+b {
+  background-color: burlywood;
+  color: darkred;
+}
